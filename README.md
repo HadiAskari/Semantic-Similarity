@@ -1,4 +1,4 @@
-# Semantic-Similarity-Comcast
+# Semantic-Similarity
 
 Git Repo for the code for Generating the most relevant IAB Taxonomy adwords for a set of Closed Caption Data.
 
